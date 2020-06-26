@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "mat-breadcrumb": [
+        "dist/mat-breadcrumb/mat-breadcrumb",
+        "dist/mat-breadcrumb"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

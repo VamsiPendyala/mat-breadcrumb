@@ -1,0 +1,40 @@
+{
+  "name": "mat-breadcrumb",
+  "description": "Angular 9  Material  Breadcrumb NPM Module",
+
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^9.1.11",
+    "@angular/core": "^9.1.11",
+    "@angular/material": "^9.2.4"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VamsiPendyala/mat-breadcrumb"
+  },
+  "keywords": [
+    "angular 2 breadcrumb ",
+    "ng7-mat-breadcrumb",
+    "angular6 material breadcrumb",
+    "angular 7 breadcrumb",
+    "angular dynamic breadcrumb",
+    "angular material breadcrumb",
+    "Breadcrumbs",
+    "angular7 material Breadcrumbs",
+    "angular 7 material ",
+    "angular 8 breadcrumb",
+    "angular8 material Breadcrumbs",
+    "angular 8 material ",
+    "angular 9 breadcrumb",
+    "angular9 material Breadcrumbs",
+    "angular 9 material" 
+  ],
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "author": "Vamsi Pendyala",
+  "contributors": [
+    "Vamsi Pendyala <vamsi.pendyala8@gmail.com>"
+  ]
+}

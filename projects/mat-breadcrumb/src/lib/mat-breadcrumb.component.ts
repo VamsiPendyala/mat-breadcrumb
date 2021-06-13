@@ -1,9 +1,8 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import { ActivatedRoute, NavigationEnd, PRIMARY_OUTLET, Router } from '@angular/router';
+import { map, filter } from 'rxjs/operators';
 import { Breadcrumb } from './breadcrumb.model';
 import { MatBreadcrumbService } from './mat-breadcrumb.service';
-import { ActivatedRoute, Router, NavigationEnd, PRIMARY_OUTLET, RoutesRecognized } from '@angular/router';
-import { filter } from 'rxjs/operators';
-import { map, mergeMap } from 'rxjs/internal/operators';
 
 @Component({
   selector: 'lib-mat-breadcrumb',

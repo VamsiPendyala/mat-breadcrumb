@@ -1,5 +1,5 @@
 {
-    "name": "breadcrumb",
+    "name": "mat-breadcrumb-smart",
     "version": "1.0.0",
     "scripts": {
         "ng": "ng",
@@ -9,7 +9,6 @@
         "lint": "ng lint",
         "e2e": "ng e2e"
     },
-    "private": true,
     "dependencies": {
         "@angular/animations": "~12.0.4",
         "@angular/cdk": "^12.0.4",
@@ -51,5 +50,19 @@
     "author": "Vamsi Pendyala",
     "contributors": [
         "Vamsi Pendyala <vamsi.pendyala8@gmail.com>"
-    ]
+    ],
+    "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/motax30/mat-breadcrumb.git"
+    },
+    "keywords": [
+        "mat-breadcrumb-smart"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/motax30/mat-breadcrumb/issues"
+    },
+    "homepage": "https://github.com/motax30/mat-breadcrumb#readme"
 }
